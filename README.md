@@ -1,2 +1,2 @@
 # Actividad-1
-Programación impetiva paradigmas de programación
+Programación imperativa paradigmas de programación
